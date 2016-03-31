@@ -1,0 +1,11 @@
+ul,body{padding: 0px; margin: 0px;border:none;position: relative;}
+div,li{background: #eee;border:1px solid #999; }
+#main{padding:20px;height:530px;position: relative;}
+#left{width: 200px;position: absolute; left: 20px;top: 20px;background: #fff;}
+#right{width: 120px;position: absolute; right:20px;top:20px;background: #fff;}
+#mid{margin: 0 140px 0 220px;background: #fff;}
+#teamlogo{width: 80px;height: 80px;float:left;margin: 20px 0px 20px 20px;}
+#right>ul{list-style: none;}
+#right>ul>li{width: 80px;height: 80px;margin: 20px;}
+#left>p{font-size: 14px;font-weight:bold;text-indent:1em;margin: 0px;margin-top: 20px;}
+#mid>p{text-indent: 2em;}
