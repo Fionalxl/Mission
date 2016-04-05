@@ -1,0 +1,38 @@
+* { 
+	padding: 0; 
+	margin: 0; 
+} 
+.wrap{
+	width:100%;
+	height:100%;		
+	display: -webkit-flex;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
+.box-set {
+  background: #ccc;
+  position: relative;
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+
+}	
+.round
+{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background: #fc0;
+}
+.round1
+{
+	left:-50px;
+    top:-50px;
+}
+.round2
+{
+	right:-50px;
+    bottom:-50px;
+}
