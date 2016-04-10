@@ -28,7 +28,8 @@ div,li
 {
 	width: 120px;
 	position: absolute;
-    right:20px;top:20px;
+    right:20px;
+    top:20px;
     background: #fff;
 }
 #mid
